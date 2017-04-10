@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cmsi</string>
+
+    <!-- Login -->
+    <string name="login_txtUsuario">Usuário:</string>
+    <string name="login_txtSenha">Senha:</string>
+    <string name="login_btnEntrar">Entrar</string>
+    <string name="login_ckbConectado">Manter conectado?</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sair">Sair</string>
+    <string name="usuarios">Usuários</string>
+
+    <!-- Validações -->
+    <string name="login_valUsuario">Usuário Obrigatório.</string>
+    <string name="login_valSenha">Senha Obrigatório.</string>
+
+    <!-- Mensagens -->
+    <string name="msg_login_invalido">Usuário e/ou Senha Inválido.</string>
+    <string name="title_activity_cad_usuario">Cadastro de usuários</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+    <string name="msg_cadastro">Cadastro realizado com sucesso</string>
+    <string name="msg_atualizar">Atualizado com sucesso</string>
+    <string name="msg_erro">Erro ao Salvar</string>
+
+    <!-- Usuarios -->
+    <string name="usuario_txtNome">Nome:</string>
+    <string name="usuario_txtLogin">Login:</string>
+    <string name="usuario_txtSenha">Senha:</string>
+    <string name="lista_usuarios">Lista de Usuários</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
